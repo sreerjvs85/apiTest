@@ -2,7 +2,7 @@ Feature: This use case will validate parameters like name, CanRelist and descrip
 
   Background: User has access to category details end point
 
-  Scenario:
+  Scenario: Validate various parameters of api end point
     Given User has access to category details end point with parameter as "catalogue" equals "false"
     When User hits the endpoint and gets a response
     Then Validates "Name" key for value "Carbon credits"
