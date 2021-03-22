@@ -1,4 +1,4 @@
-Pre Requisites: a. Java (jdk and jre) latest version installed and environment path set. b. Maven latest version and environment path set. c. Chrome browser latest version installed.
+Pre Requisites: a. Java (jdk and jre) latest version installed and environment path set. b. Maven latest version and environment path set.installed.
 
 Development: IDE: Intellij. CI: Jenkins. Folder structure: Maven. Framework : RestAssured + BDD (Cucumber) + TestNG. Language: Java, Gherkin.
 
